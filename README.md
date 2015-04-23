@@ -1,3 +1,24 @@
+## urg_c (jade) - 1.0.404-0
+
+The packages in the `urg_c` repository were released into the `jade` distro by running `/usr/bin/bloom-release urg_c --track jade --rosdistro jade --new-track` on `Thu, 23 Apr 2015 00:34:28 -0000`
+
+The `urg_c` package was released.
+
+Version of package(s) in repository `urg_c`:
+- upstream repository: git://github.com/ros-drivers/urg_c.git
+- release repository: unknown
+- rosdistro version: `null`
+- old version: `null`
+- new version: `1.0.404-0`
+
+Versions of tools used:
+- bloom version: `0.5.19`
+- catkin_pkg version: `0.2.6`
+- rosdep version: `0.11.0`
+- rosdistro version: `0.4.0`
+- vcstools version: `0.1.35`
+
+
 ## urg_c (indigo) - 1.0.404-5
 
 The packages in the `urg_c` repository were released into the `indigo` distro by running `/usr/bin/bloom-release urg_c -t indigo -r indigo` on `Mon, 16 Jun 2014 22:05:59 -0000`
