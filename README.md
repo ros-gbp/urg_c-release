@@ -1,3 +1,26 @@
+## urg_c (melodic) - 1.0.405-0
+
+The packages in the `urg_c` repository were released into the `melodic` distro by running `/usr/bin/bloom-release urg_c -r melodic -t melodic` on `Tue, 07 Aug 2018 20:05:22 -0000`
+
+The `urg_c` package was released.
+
+Version of package(s) in repository `urg_c`:
+
+- upstream repository: git://github.com/ros-drivers/urg_c.git
+- release repository: unknown
+- rosdistro version: `null`
+- old version: `1.0.404-0`
+- new version: `1.0.405-0`
+
+Versions of tools used:
+
+- bloom version: `0.6.6`
+- catkin_pkg version: `0.4.7`
+- rosdep version: `0.12.2`
+- rosdistro version: `0.6.8`
+- vcstools version: `0.1.40`
+
+
 ## urg_c (lunar) - 1.0.405-0
 
 The packages in the `urg_c` repository were released into the `lunar` distro by running `/usr/bin/bloom-release urg_c -r lunar -t lunar` on `Tue, 07 Aug 2018 20:01:40 -0000`
