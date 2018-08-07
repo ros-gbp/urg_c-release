@@ -2,6 +2,12 @@
 Changelog for package urg_c
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
+1.0.405 (2018-08-07)
+--------------------
+* pass *pointer to* system timestamp, sync issue on quit
+* Adding new maintainer.
+* Contributors: Tony Baltovski, knickels
+
 1.0.404 (2014-04-28)
 --------------------
 * Merge pull request `#2 <https://github.com/ros-drivers/urg_c/issues/2>`_ from dawonn/master
