@@ -1,3 +1,26 @@
+## urg_c (noetic) - 1.0.405-1
+
+The packages in the `urg_c` repository were released into the `noetic` distro by running `/usr/bin/bloom-release urg_c -t noetic -r noetic` on `Fri, 29 May 2020 10:53:39 -0000`
+
+The `urg_c` package was released.
+
+Version of package(s) in repository `urg_c`:
+
+- upstream repository: git://github.com/ros-drivers/urg_c.git
+- release repository: unknown
+- rosdistro version: `null`
+- old version: `null`
+- new version: `1.0.405-1`
+
+Versions of tools used:
+
+- bloom version: `0.9.7`
+- catkin_pkg version: `0.4.20`
+- rosdep version: `0.19.0`
+- rosdistro version: `0.8.2`
+- vcstools version: `0.1.42`
+
+
 ## urg_c (melodic) - 1.0.405-0
 
 The packages in the `urg_c` repository were released into the `melodic` distro by running `/usr/bin/bloom-release urg_c -r melodic -t melodic` on `Tue, 07 Aug 2018 20:05:22 -0000`
